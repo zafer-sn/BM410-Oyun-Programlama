@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZaferS\\Fallen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\playermirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\playerscorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\shapescorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shapescorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CircleScoreControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CircleScoreControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\sinav3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sinav3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\sinav1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sinav1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\squarescorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\squarescorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\trianglescorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trianglescorecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\ornek1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ornek1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CircleScoreControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CircleScoreControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\zafers\\fallen\\assets\\scripts\\collisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMirror.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\PlayerMirror.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMirror.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\PlayerMirror.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMirror.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:54:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShapeScoreControl.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\ShapeScoreControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShapeScoreControl.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\ShapeScoreControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShapeScoreControl.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:22:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sinav3.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Sinav3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sinav3.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Sinav3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sinav3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T11:37:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sinav1.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Sinav1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sinav1.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Sinav1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sinav1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T11:13:41.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SquareScoreControl.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\SquareScoreControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SquareScoreControl.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\SquareScoreControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SquareScoreControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:33:24.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:47:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleScoreControl.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CircleScoreControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CircleScoreControl.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CircleScoreControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CircleScoreControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T10:55:09.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerScoreControl.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\PlayerScoreControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScoreControl.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\PlayerScoreControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScoreControl.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:37:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ornek1.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Ornek1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ornek1.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Ornek1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ornek1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:28:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:16:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TriangleScoreControl.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\TriangleScoreControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriangleScoreControl.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\TriangleScoreControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriangleScoreControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:31:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollisionTest.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CollisionTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionTest.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CollisionTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:04:13.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CircleScoreControl.cs",
+              "DocumentMoniker": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CircleScoreControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CircleScoreControl.cs",
+              "ToolTip": "C:\\Users\\ZaferS\\Fallen\\Assets\\Scripts\\CircleScoreControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CircleScoreControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:25:36.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
